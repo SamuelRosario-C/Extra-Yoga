@@ -40,14 +40,15 @@ input::placeholder {
 }
 
 .forgot-password {
-    font-size: normal;
     font-weight: normal;
-    font-size: 13px;
+    font-size: 12px;
     line-height: 15px;
     color: black;
-    margin: 35px 30px 38px 0;
     display: block;
-    text-align: right;
+    text-align: center;
+    margin: 35px 30px 38px 250px;
+    
+    
 }
 
 button {
